@@ -1,0 +1,6 @@
+{
+  "name": "Website Redesigner & Simplifier",
+  "description": "Redesign cluttered web pages into simpler, faster, and reliable versions by removing unnecessary features, bloat, and distractions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
